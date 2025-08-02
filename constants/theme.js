@@ -1,0 +1,35 @@
+export const THEME = {
+  colors: {
+    primary: "#00ff88",
+    background: "#000000",
+    surface: "#1a1a1a",
+    border: "#333333",
+    text: "#ffffff",
+    textSecondary: "#999999",
+    textTertiary: "#666666",
+    danger: "#EF4444",
+  },
+  spacing: {
+    xs: 4,
+    sm: 8,
+    md: 16,
+    lg: 20,
+    xl: 24,
+    xxl: 32,
+  },
+  borderRadius: {
+    sm: 4,
+    md: 8,
+    lg: 12,
+    xl: 16,
+  },
+  fontSize: {
+    xs: 12,
+    sm: 14,
+    md: 16,
+    lg: 18,
+    xl: 24,
+    xxl: 28,
+    xxxl: 48,
+  },
+}
