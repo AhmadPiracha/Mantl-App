@@ -44,7 +44,7 @@ export default function RootLayout() {
 
   return (
     <AppProvider>
-      <StatusBar style="light" backgroundColor="#0f0f0f" />
+      <StatusBar style="light" backgroundColor="transparent" />
       <Tabs
         screenOptions={{
           headerShown: false,

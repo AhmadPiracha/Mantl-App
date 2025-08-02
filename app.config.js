@@ -7,6 +7,11 @@ export default {
     icon: "./assets/logo.png",
     userInterfaceStyle: "dark",
     scheme: "mantl",
+    "extra": {
+      "eas": {
+        "projectId": "b0f3ac3c-8955-453b-9d6f-b88d0d721458",
+      },
+    },
     splash: {
       image: "./assets/logo.png",
       resizeMode: "contain",
